@@ -13,3 +13,7 @@ enable-ssh-support
 ### ~/.gnupg/gpg.conf
 https://github.com/drduh/config/blob/master/gpg.conf
 
+### other resources:
+* https://github.com/drduh/YubiKey-Guide
+* https://www.isi.edu/~calvin/yubikeyssh.htm#configure-gpg-agent-and-add-your-ssh-keys
+* https://ocramius.github.io/blog/yubikey-for-ssh-gpg-git-and-local-login/
