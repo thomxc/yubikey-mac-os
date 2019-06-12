@@ -4,6 +4,11 @@ https://gpgtools.org/
 ### ~/.bash_profile
 https://gist.githubusercontent.com/thomxc/9ec219abbab09dcbe0effefecd265364/raw/48bcbccaad6b38b7ab6ab4f7dce251ffd8567fe9/.bash_profile
 
+```
+# alias for filezilla through cmd line because gpg - https://superuser.com/questions/1383380/filezilla-on-mac-yubikey-authentication
+alias filezilla="/Applications/FileZilla.app/Contents/MacOS/filezilla"
+```
+
 ### ~/.gnupg/gpg-agent.conf
 ```
 default-cache-ttl 600
